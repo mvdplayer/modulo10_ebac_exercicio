@@ -1,0 +1,58 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Zen Dots', cursive;
+}
+
+html {
+    background-color: rgba(23, 139, 233, 0.644);
+}
+
+.container {
+    margin-left: 27%;
+    margin-top: 10%;
+    background-color: rgb(188, 195, 218);
+    border-radius: 10px;
+    margin-right: 6%;
+}
+
+input, label {
+    margin-left: 10px;
+}
+
+.form-campo {
+    margin-bottom: 16px;
+    
+}
+
+.form-campo input {
+    width: 100%;
+    padding: 8px;
+    border-radius: 5px;
+    display: block;
+    font-family: 'Roboto', sans-serif;
+}
+
+form {
+    max-width: 650px;
+}
+
+.form-campo label {
+    font-family: 'Rubik Wet Paint', cursive;
+}
+
+header {
+    margin-bottom:  50px;
+    margin-left: 5%;
+}
+
+.form-campo button {
+    margin-left: 37%;
+    width: 100%;
+    padding: 5px;
+}
+
+button {
+    max-width: 150px;
+}
